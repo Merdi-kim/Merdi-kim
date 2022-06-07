@@ -12,6 +12,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: merdikimuha1@gmail.com
 
 - ⚡ "*Learning forever, building forever*"
-
-![Merkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merdi-kim&show_icons=true&theme=tokyonight)
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merdi-kim)](https://github.com/Merdi-kim/github-readme-stats)
 
