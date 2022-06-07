@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on https://cyrrus.vercel.app/
-- 🌱 I’m currently experimenting the web3.0 ecosystem and learnig Rust
+- 🔭 I’m currently working on moving the web3 space forward
+- 🌱 I’m currently experimenting web3.0 protocols
 - 👯 I’m looking to collaborate on solving problems with software
 - 💬 Ask me about anything web-related, I might have a hint 
 - 📫 How to reach me: merdikimuha1@gmail.com
