@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything web-related, I might have a hint 
 - 📫 How to reach me: merdikimuha1@gmail.com
 
-- ⚡ "*Learning forever, building forever.*"
+- ⚡ "*Learning forever, Building forever.*"
 - 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merdi-kim)](https://github.com/Merdi-kim/github-readme-stats)
 
