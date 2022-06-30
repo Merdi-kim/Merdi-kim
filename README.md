@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on moving the web3 space forward
+- 🔭 I’m currently working on moving the web3 ecosystem forward
 - 🌱 I’m currently experimenting web3.0 protocols
 - 👯 I’m looking to collaborate on solving problems with software
 - 💬 Ask me about anything web-related, I might have a hint 🤔
