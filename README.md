@@ -1,4 +1,4 @@
-### Hi there 👋. Merkim here
+### Hi there👋. Merkim here
 
 <!--
 **Merdi-kim/Merdi-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
